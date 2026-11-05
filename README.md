@@ -18,3 +18,14 @@ https://palakagrawal2428-ai.github.io/campus-notes-hub/
 
 ## Tech Used
 HTML, CSS, JavaScript
+
+## Purpose
+Classmates often struggle to find organised notes in one place. This website keeps subject-wise notes together so that students can find them easily. It supports SDG 4 (Quality Education) by making study material easier to access.
+
+## How to Run Locally
+1. Download or clone this repository.
+2. Open `index.html` in any web browser.
+
+## Future Improvements
+- Add more subjects and notes
+- Add a download option for notes
